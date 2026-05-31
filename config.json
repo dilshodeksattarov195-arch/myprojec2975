@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cacheronnect",
+        "uuid": 16826600,
+        "checksum": "fjkt7h"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "production"
+    }
+}
